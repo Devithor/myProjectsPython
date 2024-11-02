@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 
-import sty
-from sty import fg, bg, ef, rs
-
 try:
     import sty
+    from sty import fg, bg, ef, rs
 except ImportError:
     print("O pacote 'sty' não está instalado. Instalando agora...")
     subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'sty'])
