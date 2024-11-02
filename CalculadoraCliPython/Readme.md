@@ -1,6 +1,6 @@
 <div class="content">
   <h1>Calculadora Cli</h1>
-  <img src="CalculadoraCliPython/Screenshot_20241102-115649~3.png">
+  <img src="Screenshot_20241102-115649~3.png">
   <br>
 <p>Uma calculadora simples e funcional para terminais, com operações matemática básicas: 
   <ul> 
