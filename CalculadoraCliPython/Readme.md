@@ -10,4 +10,14 @@
     <li>Exponenciação</li>
   </ul>
 </p>
+  <br>
+  <h3>Passo a passo da instalação:</h3>
 </div>
+
+```sh
+# torne o arquivo executável
+chmod +x calculadoraCli.py
+
+# execute o arquivo py
+./calculadoraCli.py
+```
