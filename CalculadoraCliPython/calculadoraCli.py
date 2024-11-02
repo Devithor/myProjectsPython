@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import sty
 from sty import fg, bg, ef, rs
 
