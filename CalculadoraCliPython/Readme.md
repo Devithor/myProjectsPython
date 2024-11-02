@@ -2,6 +2,7 @@
   <h1>Calculadora Cli</h1>
   <img src="Screenshot_20241102-115649~3.png">
   <br>
+  <hr>
 <p>Uma calculadora simples e funcional para terminais, com operações matemática básicas: 
   <ul> 
     <li>Adição</li> 
