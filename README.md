@@ -1,6 +1,6 @@
 <div class="pythonContent">
   <div class="imgContent">
-    <img src="!" alt="imgLogo">
+    <img src="https://4kwallpapers.com/images/walls/thumbs_2t/16018.png" alt="imgLogo">
   </div>
   <h1>Meus Projetos Python</h1>
   <br>
