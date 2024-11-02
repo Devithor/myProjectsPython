@@ -3,11 +3,11 @@
   <br>
 <p>Uma calculadora simples e funcional para terminais, com operações matemática básicas: 
   <ul> 
-    <li>adição</li> 
+    <li>Adição</li> 
     <li>Subtração</li>
     <li>Multiplicação</li> 
-    <li>divisão</li> 
-    <li>exponenciação</li>
+    <li>Divisão</li> 
+    <li>Exponenciação</li>
   </ul>
 </p>
 </div>
